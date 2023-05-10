@@ -1,3 +1,13 @@
 img{
   width: 100%;
 }
+.content{
+  position: relative;
+}
+.content video{
+  width: 100%;
+  position: absolute;
+  top: 108px;
+  object-fit: contain;
+  /* height: 100%; */
+}
